@@ -1,0 +1,19 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "username": "Sơn Tùng",
+        "avatar": "https://i.pravatar.cc/100?img=3",
+        "image": "https://picsum.photos/400/300",
+        "caption": "Yêu tất cả các em!!"
+      },
+      {
+        "id": 2,
+        "username": "Vi rút",
+        "avatar": "https://i.pravatar.cc/100?img=5",
+        "image": "https://picsum.photos/400/301",
+        "caption": "Trai gia trưởng nhưng yêu em"
+      }
+    ]
+  }
+  
